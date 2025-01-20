@@ -1,5 +1,7 @@
 ini adalah resolusi kegiatan xii pplg 1
 
 - Teori tentang materi git dan github
-- praktik github
+- praktik git
 - kolaborasi menggunakan git dan github
+- membuat materi struktur data
+- buat database
